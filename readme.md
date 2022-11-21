@@ -18,7 +18,7 @@
   <!-- 2nd row -->
   <tr>
     <!-- languages -->
-    <td>
+    <td width='50%'>
         <div align='center'>
         <br>
         <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
