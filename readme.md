@@ -7,12 +7,7 @@ I'm a passionate about math, new technologies and computer science.
 - 💬 Send a message: [here](https://github.com/kennethEdwin147/Fast)
 
 
-<div class='flex'>
+<div style='display:flex'>
     <p>ddfdd</p>
     <p>ddfdd</p>
 </div>
-<style>
-    .flex {
-        display:flex
-    }
-</style>
