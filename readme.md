@@ -4,7 +4,7 @@ I'm a passionate about math, new technologies and computer science.
 <br>
 
 
-<table>
+<table align='center'>
   <tr>
     <th>
         <h2>Languages</h2>
