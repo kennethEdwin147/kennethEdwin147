@@ -52,7 +52,7 @@
   </tr>
     <tr>
     <td>
-        <h2>Online Education</h2>
+        <h2>Database</h2>
     </td>
     <td>
         <h2>Editor/IDE</h2>
