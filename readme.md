@@ -11,10 +11,7 @@ I'm a passionate about math, new technologies and computer science.
     </td>
     <td>
         <h2>Framework</h2>
-    </td>
-      <td>
-        <h2>CLI</21>
-    </td>
+
   </tr>
   <!-- 2nd row -->
   <tr>
@@ -37,7 +34,7 @@ I'm a passionate about math, new technologies and computer science.
         </div>
     </td>
     <!-- cli -->
-    <td>
+   <!--  <td>
         <div align='center'>
         <br>
         <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
@@ -45,7 +42,7 @@ I'm a passionate about math, new technologies and computer science.
         <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
         <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'>
         </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 
