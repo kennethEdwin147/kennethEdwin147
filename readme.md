@@ -7,12 +7,14 @@ I'm a passionate about math, new technologies and computer science.
 <table>
   <tr>
     <td>
-        <h1>CLI</h1>
-    </td>
-    <td>
         <h1>Languages</h1>
     </td>
-    <td>Flor</td>
+    <td>
+        <h1>Framework</h1>
+    </td>
+      <td>
+        <h1>CLI</h1>
+    </td>
   </tr>
   <!-- terminal -->
   <tr>
@@ -20,7 +22,9 @@ I'm a passionate about math, new technologies and computer science.
         <div>
         <br>
         <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
-        <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
+        <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+        <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+        <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'>
         </div>
     </td>
     <td>Jack Russell</td>
