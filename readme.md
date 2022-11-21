@@ -45,7 +45,7 @@
   <!-- 3rd row  -->
   <tr align='center'>
     <td >
-      <h2>Online Education</h2>
+      <h2>💡 Online Education</h2>
     </td>
     <td>
       <h2>Database</h2>
