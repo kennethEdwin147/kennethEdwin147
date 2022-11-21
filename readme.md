@@ -26,6 +26,7 @@
       <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'>
       <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
       <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+      <img src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white'>
     </td>
     <!-- Framework -->
     <td  align='center'>
@@ -39,7 +40,7 @@
   <!-- 3rd row  -->
   <tr align='center'>
     <td >
-      <h2>online Education</h2>
+      <h2>Online Education</h2>
     </td>
     <td>
       <h2>Database</h2>
