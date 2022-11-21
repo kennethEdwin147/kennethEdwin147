@@ -7,7 +7,7 @@ I'm a passionate about math, new technologies and computer science.
 <table>
   <tr>
     <td>
-        <h1>Languages</h1>
+        <h2>Languages</h2>
     </td>
     <td>
         <h1>Framework</h1>
