@@ -11,7 +11,7 @@ I'm a passionate about math, new technologies and computer science.
     </td>
     <td>
         <h2>Framework</h2>
-
+    </td>
   </tr>
   <!-- 2nd row -->
   <tr>
@@ -44,6 +44,14 @@ I'm a passionate about math, new technologies and computer science.
         </div>
     </td> -->
   </tr>
+    <tr>
+    <td>
+        <h2>Languages</h2>
+    </td>
+    <td>
+        <h2>Framework</h2>
+    </td>
+    </tr>
 </table>
 
 
