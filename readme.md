@@ -1,6 +1,7 @@
 # Hi It's kenneth. 👋 
- <br>
+
 I'm a passionate about math, new technologies and computer science.
+<br>
 
 
 <table>
