@@ -1,6 +1,8 @@
-# Hi, It's kenneth. 👋 
 
-I'm a passionate about math, new technologies and computer science.
+<h1 align='center'> Hi, It's kenneth. 👋 </h2>
+
+<p align='center'>I'm a passionate about math, new technologies and computer science.</p>
+
 <br>
 
 
