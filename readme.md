@@ -16,8 +16,9 @@ I'm a passionate about math, new technologies and computer science.
         <h1>CLI</h1>
     </td>
   </tr>
-  <!-- terminal -->
+  <!-- 2nd row -->
   <tr>
+    <!-- languages -->
     <td>
         <div>
         <br>
@@ -27,7 +28,16 @@ I'm a passionate about math, new technologies and computer science.
         <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'>
         </div>
     </td>
-    <td>Jack Russell</td>
+     <!-- Framework -->
+    <td>
+        <div>
+        <br>
+        <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whit'>
+        <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+        <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+        <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'>
+        </div>
+    </td>
     <td>Poodle</td>
   </tr>
 </table>
