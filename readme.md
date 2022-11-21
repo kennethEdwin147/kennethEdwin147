@@ -49,7 +49,7 @@ I'm a passionate about math, new technologies and computer science.
         <h2>Online Education</h2>
     </td>
     <td>
-        <h2>Framework</h2>
+        <h2>Editor/IDE</h2>
     </td>
     </tr>
 </table>
