@@ -46,7 +46,7 @@ I'm a passionate about math, new technologies and computer science.
   </tr>
     <tr>
     <td>
-        <h2>Languages</h2>
+        <h2>Online Education</h2>
     </td>
     <td>
         <h2>Framework</h2>
