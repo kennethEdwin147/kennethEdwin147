@@ -6,12 +6,12 @@ I'm a passionate about math, new technologies and computer science.
 
 <table>
   <tr>
-    <td>
+    <th>
         <h2>Languages</h2>
-    </td>
-    <td>
+    </th>
+    <th>
         <h2>Framework</h2>
-    </td>
+    </th>
   </tr>
   <!-- 2nd row -->
   <tr>
