@@ -1,7 +1,7 @@
 
 <h1 > Hi, It's kenneth. 👋 </h2>
 
-<p align='center'>I'm a passionate about math, new technologies and computer science.</p>
+<p >I'm a passionate about math, new technologies and computer science.</p>
 
 <br>
 
