@@ -1,5 +1,5 @@
 
-<h1> 👋 Hi, It's kenneth.  </h2>
+<h1> 👋 Hi, It's kenneth.  😁</h2>
 <p>I'm a passionate about math, new technologies and computer science.</p>
 <br>
 
@@ -45,7 +45,7 @@
   <!-- 3rd row  -->
   <tr align='center'>
     <td >
-      <h2>💡 Online Education</h2>
+      <h2>Online Education</h2>
     </td>
     <td>
       <h2>Database</h2>
