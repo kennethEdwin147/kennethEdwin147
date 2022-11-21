@@ -17,8 +17,8 @@ I'm a passionate about math, new technologies and computer science.
   <!-- terminal -->
   <tr>
     <td>
-        <div>
-        <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+        <div style='padding:10px'>
+        <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
         </div>
     </td>
     <td>Jack Russell</td>
