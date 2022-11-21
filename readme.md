@@ -14,6 +14,7 @@ I'm a passionate about math, new technologies and computer science.
     </td>
     <td>Flor</td>
   </tr>
+  <!-- terminal -->
   <tr>
     <td>Breed</td>
     <td>Jack Russell</td>
