@@ -20,7 +20,7 @@
   <tr>
     <!-- languages -->
     <td width='50%' align='center'>
-      <br>
+       <h2>Languages</h2>
       <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
       <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
       <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'>
@@ -32,7 +32,7 @@
     </td>
     <!-- Framework -->
     <td  align='center'>
-      <br>
+      <h2>Framework</h2>
       <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
       <img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'>
       <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
