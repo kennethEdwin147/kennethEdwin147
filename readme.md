@@ -1,5 +1,5 @@
 
-<h1> 👋 Hi, It's kenneth.  😁</h2>
+<h1> 👋 Hi, It's kenneth.</h2>
 <p>I'm a passionate about math, new technologies and computer science.</p>
 <br>
 
