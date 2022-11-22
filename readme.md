@@ -38,6 +38,7 @@
     <!-- languages -->
     <td width='50%' align='center'>
       <h2>Online Education</h2>
+      <br>
       <img src='https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white'>
       <img src='https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white'>
       <img src='https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white'>
@@ -47,6 +48,7 @@
     <!-- Framework -->
     <td  align='center'>
       <h2>Database</h2>
+      <br>
       <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
       <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
       <img src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'>
