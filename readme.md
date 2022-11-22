@@ -10,7 +10,7 @@
   <tr>
     <!-- languages -->
     <td width='50%' align='center'>
-      <h2>Languages</h2>
+      <h3>Languages</h3>
        <br>
       <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
       <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
@@ -23,7 +23,7 @@
     </td>
     <!-- Framework -->
     <td  align='center'>
-      <h2>Framework</h2>
+      <h3>Framework</h3>
        <br>
       <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
       <img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'>
@@ -37,7 +37,7 @@
  <tr>
     <!-- languages -->
     <td width='50%' align='center'>
-      <h2>Online Education</h2>
+      <h3>Online Education</h3>
       <br>
       <img src='https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white'>
       <img src='https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white'>
