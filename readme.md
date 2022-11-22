@@ -57,6 +57,19 @@
     </td>
   </tr>
 
+  <!-- 2nd row  -->
+ <tr>
+    <!-- languages -->
+    <td width='50%' align='center'>
+    </td>
+    <!-- Framework -->
+    <td  align='center'>
+       <h2>Last Project</h2>
+      <img width='90%' src='./public/site-1.jpeg' alt=''>
+      <br><br>
+    </td>
+  </tr>
+
 </table>
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#skills -->

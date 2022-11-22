@@ -1,6 +1,6 @@
 <?php
 /**
- * push
+ * commit && push to Github
  *
  * @return void
  */
