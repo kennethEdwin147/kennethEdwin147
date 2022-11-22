@@ -65,7 +65,7 @@
     <!-- Framework -->
     <td  align='center'>
        <h2>Last Project</h2>
-      <img width='90%' src='./public/site-1.jpeg' alt=''>
+      <img width='90%' src='./public/zen.jpeg' alt=''>
       <br><br>
     </td>
   </tr>
