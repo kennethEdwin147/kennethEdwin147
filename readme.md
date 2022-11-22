@@ -64,7 +64,7 @@
     </td>
     <!-- Framework -->
     <td  align='center'>
-       <h2>Last Project</h2>
+      <h2>My Last Project</h2><br>
       <img width='90%' src='./public/zen.jpeg' alt=''>
       <br><br>
     </td>
