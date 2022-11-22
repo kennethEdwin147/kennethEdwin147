@@ -29,6 +29,7 @@
       <img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'>
       <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
       <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+       <img src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'>
       <br>
       <br>
     </td>
@@ -62,3 +63,6 @@
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
 
+<!-- https://github.com/Ileriayo/markdown-badges#markdown-badges -->
+
+<!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
