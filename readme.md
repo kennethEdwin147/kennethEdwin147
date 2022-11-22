@@ -47,7 +47,7 @@
     </td>
     <!-- Framework -->
     <td  align='center'>
-      <h2>Database</h2>
+      <h4>Database</h4>
       <br>
       <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
       <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
