@@ -6,17 +6,7 @@
 <!-- table -->
 <table align='center'>
 
-  <!-- 1st row  -->
-  <tr align='center'>
-    <th>
-      <h2>Languages</h2>
-    </th>
-    <th>
-      <h2>Framework</h2>
-    </th>
-  </tr>
-
-  <!-- 2nd row -->
+  <!-- 1st row -->
   <tr>
     <!-- languages -->
     <td width='50%' align='center'>
