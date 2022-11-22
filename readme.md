@@ -57,18 +57,6 @@
     </td>
   </tr>
 
-  <!-- 2nd row  -->
- <tr>
-    <!-- languages -->
-    <td width='50%' align='center'>
-    </td>
-    <!-- Framework -->
-    <td  align='center'>
-      <h2>Most recent project</h2><br>
-      <img width='90%' src='./public/zen.jpeg' alt=''>
-      <br><br>
-    </td>
-  </tr>
 
 </table>
 
