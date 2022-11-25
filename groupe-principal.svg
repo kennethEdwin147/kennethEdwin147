@@ -20,7 +20,7 @@
 
 <g class="animate1">
 <path d="M9 176C9 173.239 11.2386 171 14 171H330C341.046 171 350 179.954 350 191V196C350 207.046 341.046 216 330 216H14C11.2386 216 9 213.761 9 211V176Z" fill="#9231B4"/>
-<text fill="white" xml:space="preserve" style="white-space: pre"  letter-spacing="0em"><tspan x="16" y="200.318">Je vous souhaite un agr&#xe9;able dimanche.</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre"  letter-spacing="0em"><tspan x="16" y="200.318">Je vous souhaite un agr&#xe9;able {{date}}.</tspan></text>
 </g>
 
 <g class="animate1">
@@ -33,7 +33,7 @@
        animation-name: animate;
        animation-fill-mode: both;
        animation-duration: 0.6s;
-       font-size: 17px;
+       font-size: 16px;
        font-family:Inter;
    }
    @keyframes animate {
