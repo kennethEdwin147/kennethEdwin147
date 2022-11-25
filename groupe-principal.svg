@@ -33,7 +33,7 @@
        animation-name: animate;
        animation-fill-mode: both;
        animation-duration: 0.6s;
-       font-size: 16px;
+       font-size: 17px;
        font-family:Inter;
    }
    @keyframes animate {
