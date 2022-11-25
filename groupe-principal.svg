@@ -1,0 +1,71 @@
+<svg width="448" height="268" viewBox="0 0 448 268" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+<g class="animate1">
+<path d="M12.1686 20C12.1686 8.9543 21.1229 0 32.1686 0H211C222.046 0 231 8.95431 231 20V25C231 36.0457 222.046 45 211 45H17.1686C14.4071 45 12.1686 42.7614 12.1686 40V20Z" fill="#9231B4"/>
+<text fill="white" xml:space="preserve" style="white-space: pre"  letter-spacing="0em"><tspan x="24.2346" y="28.3182">Salut, c&#x2019;est Kenneth 😊	</tspan></text>
+</g>
+<g class="animate1">
+
+<path d="M11 57C11 54.2386 13.2386 52 16 52H395C406.046 52 415 60.9543 415 72V77C415 88.0457 406.046 97 395 97H16C13.2386 97 11 94.7614 11 92V57Z" fill="#9231B4"/>
+<text fill="white" xml:space="preserve" style="white-space: pre"  letter-spacing="0em"><tspan x="27" y="79.3182">Vous voulez en savoir un peu plus sur moi ?&#10;</tspan></text>
+</g>
+
+
+<g class="animate1">
+<path d="M9 109C9 106.239 11.2386 104 14 104H395C406.046 104 415 112.954 415 124V144C415 155.046 406.046 164 395 164H14C11.2386 164 9 161.761 9 159V109Z" fill="#9231B4"/>
+<text fill="white" xml:space="preserve" style="white-space: pre"  letter-spacing="0em"><tspan x="21" y="129.318">J&#x2019;ai une grande passion pour la musique,&#10;</tspan><tspan x="21" y="148.318">les nouvelles technologies et les sciences.&#10;</tspan></text>
+</g>
+
+<g class="animate1">
+<path d="M9 176C9 173.239 11.2386 171 14 171H330C341.046 171 350 179.954 350 191V196C350 207.046 341.046 216 330 216H14C11.2386 216 9 213.761 9 211V176Z" fill="#9231B4"/>
+<text fill="white" xml:space="preserve" style="white-space: pre"  letter-spacing="0em"><tspan x="16" y="200.318">Je vous souhaite un agr&#xe9;able dimanche.</tspan></text>
+</g>
+
+<g class="animate1">
+<path d="M9 228C9 225.239 11.2386 223 14 223H310C321.046 223 330 231.954 330 243V248C330 259.046 321.046 268 310 268H29C17.9543 268 9 259.046 9 248V228Z" fill="#9231B4"/>
+<text fill="white" xml:space="preserve" style="white-space: pre"  letter-spacing="0em"><tspan x="19" y="251.318">Et merci pour cette petite visite. 👋</tspan></text>
+</g>
+
+<style>
+    .animate1 {
+       animation-name: animate;
+       animation-fill-mode: both;
+       animation-duration: 0.6s;
+       font-weight: 450;
+       font-size: 18px;
+       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   }
+   @keyframes animate {
+       0% {
+           opacity: 0;
+           transform: translateY(50px);
+       }
+       100% {
+           opacity: 1;
+           transform: translateY(0px);
+       }
+   }
+
+   .animate1:nth-child(2) {
+       animation-delay: 2s;
+   }
+   .animate1:nth-child(3) {
+       animation-delay: 4s;
+   }
+   .animate1:nth-child(4) {
+       animation-delay: 6s;
+   }
+   .animate1:nth-child(5) {
+       animation-delay: 9s;
+   }
+   .animate1:nth-child(6) {
+       animation-delay: 11s;
+   }
+</style>
+
+
+
+
+</svg>
