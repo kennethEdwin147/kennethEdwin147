@@ -1,5 +1,5 @@
 <br>
 
-![alt](./groupe-principal.svg)
+![alt](./hh.svg)
 
 <br><br><br><br><br><br>
