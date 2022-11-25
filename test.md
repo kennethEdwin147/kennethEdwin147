@@ -1,5 +1,5 @@
 
-<h1> 👋 A little bit about myself</h2>
+<h1 class='animate1'> 👋 A little bit about myself</h2>
 <p>I'm a passionate about math, new technologies and computer science.</p>
 <br>
 
@@ -9,7 +9,7 @@
   <!-- 1st row -->
   <tr>
     <!-- languages -->
-    <td width='50%' align='center'>
+    <td  width='50%' align='center'>
       <h3>Languages</h3>
        <br>
       <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
@@ -57,6 +57,44 @@
       <br>
     </td>
   </tr>
+
+  
+<style>
+    .animate1 {
+       animation-name: animate;
+       animation-fill-mode: both;
+       animation-duration: 2s;
+       font-weight: 450;
+       font-size: 18px;
+       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   }
+   @keyframes animate {
+       0% {
+           opacity: 0;
+           transform: translateY(50px);
+       }
+       100% {
+           opacity: 1;
+           transform: translateY(0px);
+       }
+   }
+
+   .animate1:nth-child(2) {
+       animation-delay: 2s;
+   }
+   .animate1:nth-child(3) {
+       animation-delay: 4s;
+   }
+   .animate1:nth-child(4) {
+       animation-delay: 6s;
+   }
+   .animate1:nth-child(5) {
+       animation-delay: 9s;
+   }
+   .animate1:nth-child(6) {
+       animation-delay: 11s;
+   }
+</style>
 
 
 </table>
