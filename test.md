@@ -63,43 +63,6 @@
     </td>
   </tr>
 
-  
-<style>
-    .animate1 {
-       animation-name: animate;
-       animation-fill-mode: both;
-       animation-duration: 0.6s;
-       font-weight: 450;
-       font-size: 18px;
-       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-   }
-   @keyframes animate {
-       0% {
-           opacity: 0;
-           transform: translateY(50px);
-       }
-       100% {
-           opacity: 1;
-           transform: translateY(0px);
-       }
-   }
-
-   .animate1:nth-child(2) {
-       animation-delay: 2s;
-   }
-   .animate1:nth-child(3) {
-       animation-delay: 4s;
-   }
-   .animate1:nth-child(4) {
-       animation-delay: 6s;
-   }
-   .animate1:nth-child(5) {
-       animation-delay: 9s;
-   }
-   .animate1:nth-child(6) {
-       animation-delay: 11s;
-   }
-</style>
 
 
 </table>
