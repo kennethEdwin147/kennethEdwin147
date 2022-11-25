@@ -1,4 +1,3 @@
-# Salut, c'est moi
 
 <br>
 
