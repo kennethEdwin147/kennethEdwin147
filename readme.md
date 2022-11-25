@@ -1,1 +1,2 @@
-![alt](./welcome.svg)
+![alt](./groupe-principal.svg)
+<br><br>
