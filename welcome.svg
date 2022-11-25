@@ -1,0 +1,73 @@
+<svg width="458" height="344" viewBox="0 0 458 344" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+<g class="animate1">
+<path d="M22.1686 20C22.1686 8.9543 31.1229 0 42.1686 0H221C232.046 0 241 8.95431 241 20V25C241 36.0457 232.046 45 221 45H27.1686C24.4071 45 22.1686 42.7614 22.1686 40V20Z" fill="#7D1D9E"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" letter-spacing="0em"><tspan x="34.2346" y="28.3182">Salut, c&#x2019;est Kenneth 👋</tspan></text>
+</g>
+
+<g class="animate1 wait1">
+<path d="M22.8125 57C22.8125 54.2386 25.0511 52 27.8125 52H210C221.046 52 230 60.9543 230 72V77C230 88.0457 221.046 97 210 97H27.8125C25.0511 97 22.8125 94.7614 22.8125 92V57Z" fill="#7D1D9E"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" letter-spacing="0em"><tspan x="37.1328" y="80.3182">Hi, It&#x2019;s Kenneth</tspan></text>
+</g>
+
+<g class="animate1 wait2">
+<path d="M21 121C21 118.239 23.2386 116 26 116H383C394.046 116 403 124.954 403 136V141C403 152.046 394.046 161 383 161H26C23.2386 161 21 158.761 21 156V121Z" fill="#337B85"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" letter-spacing="0em"><tspan x="37" y="143.318">Vous voulez en savoir un peu plus sur moi ?</tspan></text>
+</g>
+
+<g class="animate1 wait3">
+<path d="M21 173C21 170.239 23.2386 168 26 168H358C369.046 168 378 176.954 378 188V208C378 219.046 369.046 228 358 228H26C23.2386 228 21 225.761 21 223V173Z" fill="#337B85"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" letter-spacing="0em"><tspan x="33" y="193.318">J&#x2019;ai une grande passion pour la musique,&#10;</tspan><tspan x="33" y="212.318">les nouvelles technologies et les sciences.&#10;</tspan></text>
+</g>
+
+<g class="animate1 wait4">
+<path d="M21 252C21 249.239 23.2386 247 26 247H342C353.046 247 362 255.954 362 267V272C362 283.046 353.046 292 342 292H26C23.2386 292 21 289.761 21 287V252Z" fill="#337B85"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" letter-spacing="0em"><tspan x="28" y="276.318">Je vous souhaite un agr&#xe9;able dimanche.</tspan></text>
+</g>
+
+<g class="animate1 wait5">
+<path d="M21 304C21 301.239 23.2386 299 26 299H322C333.046 299 342 307.954 342 319V324C342 335.046 333.046 344 322 344H41C29.9543 344 21 335.046 21 324V304Z" fill="#337B85"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" letter-spacing="0em"><tspan x="31" y="327.318">Et merci pour cette petite visite. 👋</tspan></text>
+</g>
+
+
+<style>
+     .animate1 {
+        animation-name: animate;
+        animation-fill-mode: both;
+        animation-duration: 0.6s;
+        font-weight: 450;
+        font-size: 17px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    @keyframes animate {
+        0% {
+            opacity: 0;
+            transform: translateY(50px);
+        }
+        100% {
+            opacity: 1;
+            transform: translateY(0px);
+        }
+    }
+
+    .wait1 {
+        animation-delay: 2s;
+    }
+    .wait2 {
+        animation-delay: 4s;
+    }
+    .wait3 {
+        animation-delay: 6s;
+    }
+    .wait4 {
+        animation-delay: 9s;
+    }
+    .wait5 {
+        animation-delay: 11s;
+    }
+</style>
+
+
+</svg>
