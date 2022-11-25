@@ -1,5 +1,10 @@
+<br>
 
-<h1 class='animate1'> 👋 A little bit about myself</h2>
+![alt](./hh.svg)
+
+
+
+<h1> 👋 A little bit about myself</h2>
 <p>I'm a passionate about math, new technologies and computer science.</p>
 <br>
 
@@ -63,7 +68,7 @@
     .animate1 {
        animation-name: animate;
        animation-fill-mode: both;
-       animation-duration: 2s;
+       animation-duration: 0.6s;
        font-weight: 450;
        font-size: 18px;
        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
