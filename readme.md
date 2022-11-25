@@ -1,13 +1,7 @@
 <br>
 
 ![alt](./hh.svg)
-
-
-
-<h1> 👋 A little bit about myself</h2>
-<p>I'm a passionate about math, new technologies and computer science.</p>
 <br>
-
 <!-- table -->
 <table align='center'>
 
