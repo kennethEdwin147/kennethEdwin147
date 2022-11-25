@@ -1,4 +1,4 @@
 <br>
 
-![alt](./groupe-principal.svg)
+![alt](./welcome1.svg)
 <br><br><br>
