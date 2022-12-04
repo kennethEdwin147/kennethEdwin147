@@ -15,3 +15,6 @@ fs.writeFile("final.svg", template, (err) => {
       console.clear();
     }
 });
+
+
+/* https://dopiaza.org/tools/datauri/index.php */
