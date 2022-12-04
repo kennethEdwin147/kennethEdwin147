@@ -1,20 +1,22 @@
-const fs = require('fs');
+(function () {
 
-/* Get svg content */
-let animation = fs.readFileSync('svg/animate.svg').toString();
-let template = fs.readFileSync('svg/template.svg').toString();
+    const fs = require('fs');
 
-/* Add animation et fonts */
-template = template.replace('{{animation}}', animation);
+    /* Get svg content */
+    let animation = fs.readFileSync('svg/animate.svg').toString();
+    let template = fs.readFileSync('svg/template.svg').toString();
 
-/* Create a new svg */
-fs.writeFile("final.svg", template, (err) => {
-    if (err)
-      console.log(err);
-    else {
-      console.log(fs.readFileSync("final.svg", "utf8"));
-      console.clear();
-    }
-});
+    /* Add animation et fonts */
+    template = template.replace('{{animation}}', animation);
 
+    /* Create a new svg */
+    fs.writeFile("final.svg", template, (err) => {
+        if (err)
+        console.log(err);
+        else {
+        console.log(fs.readFileSync("final.svg", "utf8"));
+        console.clear();
+        }
+    });
 
+})();
