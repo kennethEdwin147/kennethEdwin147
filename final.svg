@@ -16,7 +16,7 @@
    #groupe1 {
     animation-name: animate;
        animation-fill-mode: both;
-       animation-duration: 1.2s;
+       animation-duration: 2.2s;
        font-size: 16px;
        font-family:Inter;
    }
@@ -49,6 +49,7 @@
        animation-delay: 11s;
    }
 </style>
+{{font}}
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_37_8" transform="translate(0 -0.291967) scale(0.0015625 0.00370945)"/>

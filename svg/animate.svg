@@ -10,7 +10,7 @@
    #groupe1 {
     animation-name: animate;
        animation-fill-mode: both;
-       animation-duration: 1.2s;
+       animation-duration: 2.2s;
        font-size: 16px;
        font-family:Inter;
    }
