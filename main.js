@@ -7,6 +7,7 @@ let template = fs.readFileSync('svg/template.svg').toString();
 /* Add animation et fonts */
 template = template.replace('{{animation}}', animation);
 
+/* Create a new svg */
 fs.writeFile("final.svg", template, (err) => {
     if (err)
       console.log(err);
@@ -17,4 +18,3 @@ fs.writeFile("final.svg", template, (err) => {
 });
 
 
-/* https://dopiaza.org/tools/datauri/index.php */

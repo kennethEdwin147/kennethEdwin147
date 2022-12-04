@@ -7,7 +7,9 @@
        font-family:Inter;
    }
 
-   #groupe1 {
+   #groupe1,
+   #groupe1_2,
+   #groupe1_3 {
     animation-name: animate;
        animation-fill-mode: both;
        animation-duration: 2.2s;
@@ -27,10 +29,10 @@
        }
    }
 
-   .animate1:nth-child(2) {
+   #groupe1_2 {
        animation-delay: 2s;
    }
-   .animate1:nth-child(3) {
+   #groupe1_3 {
        animation-delay: 4s;
    }
    .animate1:nth-child(4) {
