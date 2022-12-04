@@ -1,0 +1,10 @@
+<defs>
+    <style>
+        @font-face {
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            src:  url('')
+        }        
+ </style>
+</defs>
