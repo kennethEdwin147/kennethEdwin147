@@ -1,6 +1,4 @@
-<a href=''>
+<br>
 <img src='./final.svg' alt=''>
-</a>
-
 
 <br>
