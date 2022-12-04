@@ -5,7 +5,7 @@ let animation = fs.readFileSync('svg/animate.svg').toString();
 let template = fs.readFileSync('svg/template.svg').toString();
 
 /* Add animation et fonts */
-template = template.replace('{{style}}', animation);
+template = template.replace('{{animation}}', animation);
 
 fs.writeFile("final.svg", template, (err) => {
     if (err)
