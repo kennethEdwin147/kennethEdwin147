@@ -1,5 +1,7 @@
+
 (function () {
     const fs = require('fs');
+
 
     /* Get svg content */
     let animation = fs.readFileSync('svg/animate.svg').toString();
