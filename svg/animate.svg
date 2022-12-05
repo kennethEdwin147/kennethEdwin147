@@ -10,7 +10,8 @@
    #groupe1,
    #groupe1_2,
    #groupe1_3,
-   #groupe1_4 {
+   #groupe1_4,
+   #groupe1_5 {
     animation-name: animate;
        animation-fill-mode: both;
        animation-duration: 2.2s;
@@ -39,10 +40,7 @@
    #groupe1_4 {
        animation-delay: 9s;
    }
-   .animate1:nth-child(5) {
-       animation-delay: 9s;
-   }
-   .animate1:nth-child(6) {
-       animation-delay: 11s;
+   #groupe1_5 {
+       animation-delay: 12s;
    }
 </style>
