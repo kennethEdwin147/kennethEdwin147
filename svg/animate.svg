@@ -19,7 +19,6 @@
        font-family:Inter;
    }
 
-   
    @keyframes animate {
        0% {
            opacity: 0;
