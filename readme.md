@@ -1,3 +1,3 @@
-<img src='./final.svg' alt=''>
+<img src='./final.sg' alt=''>
 
 <br>
