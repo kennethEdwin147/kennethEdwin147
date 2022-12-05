@@ -25,9 +25,7 @@
 
     function getCurrentTime() {
         const options = {
-            weekday: "long",
             month: "long",
-            day: "numeric",
             timeZone: 'America/Toronto'
         };
         return new Intl.DateTimeFormat('fr-fr', options).format(new Date());
