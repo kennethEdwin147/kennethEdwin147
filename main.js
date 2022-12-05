@@ -3,14 +3,12 @@
 
     /* Get svg content */
     let animation = fs.readFileSync('svg/animate.svg').toString();
-    /* https://dopiaza.org/tools/datauri/index.php */
     let font = fs.readFileSync('svg/font.svg').toString();
     let template = fs.readFileSync('svg/template.svg').toString();
 
-    /* Add animation and fonts */
+    /* Add animation, font and time*/
     template = template.replace('{{animation}}', animation);
     template = template.replace('{{font}}', font);
-    /* Add current Time */
     template = template.replaceAll('{{date}}', getCurrentTime());
 
     /* Create a new svg */
