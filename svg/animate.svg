@@ -7,19 +7,15 @@
        font-family:Inter;
    }
 
-   #groupe1,
-   #groupe1_2,
-   #groupe1_3,
-   #groupe1_4,
-   #groupe1_5 {
-    animation-name: animate;
-       animation-fill-mode: both;
-       animation-duration: 2.2s;
-/*          animation-iteration-count: infinite;
- */
-       font-size: 16px;
-       font-family:Inter;
-   }
+    #groupe1,
+    #groupe1_2,
+    #groupe1_3,
+    #groupe1_4,
+    #groupe1_5 {
+        animation-name: animate;
+        animation-fill-mode: both;
+        animation-duration: 2.2s;
+    }
 
    @keyframes animate {
        0% {
